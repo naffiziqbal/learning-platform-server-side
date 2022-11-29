@@ -21,6 +21,12 @@ app.get('/courses/:id', (req, res) => {
     const result = courses.find(id => id.id == iid)
     res.send(result)
 })
+app.get('/checkout/:id', (req, res) => {
+    const iid = req.params.id;
+    // console.log(query);
+    const result = courses.find(id => id.id == iid)
+    res.send(result)
+})
 
 app.listen(port, () => {
     console.log(`Server Is Running On Port ${port}`);
