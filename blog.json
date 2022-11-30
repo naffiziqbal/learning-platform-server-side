@@ -1,0 +1,25 @@
+[
+    {
+        "id" : 1,
+        "question": "what is cors?",
+        "ans": "Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources. CORS also relies on a mechanism by which browsers make a  'preflight'  request to the server hosting the cross-origin resource, in order to check that the server will permit the actual request. In that preflight, the browser sends headers that indicate the HTTP method and headers that will be used in the actual request."
+    },
+    {
+        "id" : 2,
+
+        "question": "Why are you using firebase? What other options do you have to implement authentication??",
+        "ans": "I'm Using Firebase Because Firebase is the Very First Authintication System I'd Started With. Though, there are plenty of more like The Octa Identity Cloud, watch Guard Auth Point, Cisco Secure Access by Duo, Azure Active Directory. Firebase is more developer friendly and Stongest among Them"
+    },
+    {
+        "id" : 3,
+
+        "question": "How does the private route work?",
+        "ans": "The Work Flow of A private Route is Pretty much Simple and Easier! Before any data access we check whether the visitor is anonymous or One of our Users. If He Return as a User We give them permission to access data if not then navigate to Login Page"
+    },
+    {
+        "id" : 4,
+
+        "question": "What is Node? How does Node work?",
+        "ans": "Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources. CORS also relies on a mechanism by which browsers make a  'preflight'  request to the server hosting the cross-origin resource, in order to check that the server will permit the actual request. In that preflight, the browser sends headers that indicate the HTTP method and headers that will be used in the actual request."
+    }
+]

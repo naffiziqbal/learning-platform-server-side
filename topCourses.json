@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Learn Javascript",
+        "course_Img": "https://i.ibb.co/F6qkZWY/javascript.webp",
+        "description": "Now a Days Javascript is the most popular language in the planet Earth. That's Why You should Learn How to Speak In JavaScript language.",
+        "author": "Nafiz Iqbal",
+        "price": 200,
+        "ratings": 4.5,
+        "tagline": "Bestseller"
+    },
+    {
+        "id": 2,
+        "title": "Learn Javascript Advance",
+        "course_Img": "https://i.ibb.co/yQW72cG/unnamed.png",
+        "description": "Now a Days Javascript is the most popular language in the planet Earth. That's Why You should Learn How to Speak In JavaScript language.",
+        "author": "Jhankar Mahbub",
+        "price": 400,
+        "ratings": 4.5,
+        "tagline": "Bestseller"
+    },
+    {
+        "id": 3,
+        "title": "Learn React",
+        "course_Img": "https://i.ibb.co/NtDfft2/logo-og.png",
+        "description": "Now a Days Javascript is the most popular language in the planet Earth. That's Why You should Learn How to Speak In JavaScript language.",
+        "author": "Mosh",
+        "price": 200,
+        "ratings": 4.5,
+        "tagline": "Bestseller"
+    }
+]
